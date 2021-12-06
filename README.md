@@ -8,7 +8,7 @@
 ## 📝 Sobre
 
 <p>
-  Desafio sobre conceitos do ReactJS referente ao chapter I. A aplicação se trata de um TO DO, no qual o usuário pode criar uma lista de tarefas que ele pode estar organizando. Uma boa forma de aplicar esta ferramenta é em seus afazeres do dia a dia, podendo adicionar uma tarefa, marcar como concluída e excluí-las da lista. 📃🤙
+  Desafio sobre conceitos do ReactJS referente ao Chapter I. A aplicação se trata de um TO DO, no qual o usuário pode criar uma lista de tarefas que ele pode estar organizando. Uma boa forma de aplicar esta ferramenta é em seus afazeres do dia a dia, podendo adicionar uma tarefa, marcar como concluída e excluí-las da lista. 📃🤙
 </p>
 
 ---
